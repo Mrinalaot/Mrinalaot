@@ -12,7 +12,7 @@ I have extensively worked on react, node and typescript for the last 2 years. I 
 ## Skills
 ```
 * HTML          * CSS          * Javascript
-* Typescript    * Postgresql  * AWS
+* Typescript    * Postgresql   * AWS
 * React         * Node         * Azure         
 
 ```
