@@ -5,7 +5,7 @@
 
 I am a full stack developer with more than 4+ years of experience in frontend, backend, and cloud (AWS). I have hands on experience working with web frameworks and technologies. 
 
-I have extensively worked on React, Node (Serverless, Express, Nestjs, etc) and Typescript for the last 3 years. I have a keen interest in learning new technologies to make the development job easy.
+I have extensively worked on Node (Serverless, Express, Nestjs, etc), React and Typescript for the last 3 years. I have a keen interest in learning new technologies to make the development job easy.
 
 ---
 
@@ -38,7 +38,7 @@ I have extensively worked on React, Node (Serverless, Express, Nestjs, etc) and 
 **Cepheid - Ecommerce** - _Key backend Developer_
 * Responsible for the core development of the Ecom app and leading team with POCs and R&D
 * Been a critical part of the app since the requirements gathering, setup the application structure to delivery.
-* Development and maintenance of REST API’s using Nest(Serverless) with DynamoDB.
+* Development and maintenance of GraphQL API’s using Nest(Serverless) with DynamoDB.
 
 ### **Senior Software Engineer**
 ### EPAM, India
