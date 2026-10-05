@@ -3,7 +3,7 @@
 
 ## MRINAL KANTI GHOSH
 
-I am a full stack developer with more than 4+ years of experience in frontend, backend, and cloud (AWS). I have hands on experience working with web frameworks and technologies. 
+I am a full stack developer with more than 7+ years of experience in frontend, backend, and cloud (AWS). I have hands on experience working with web frameworks and technologies. 
 
 I have extensively worked on Node (Serverless, Express, Nestjs, etc), React and Typescript for the last 3 years. I have a keen interest in learning new technologies to make the development job easy.
 
@@ -11,28 +11,18 @@ I have extensively worked on Node (Serverless, Express, Nestjs, etc), React and 
 
 ## Skills
 ```
-* HTML          * CSS          * Javascript
-* Typescript    * Postgresql   * AWS
+* HTML/CSS      * Typescript   * Javascript
+* GraphQL       * Postgresql   * AWS
 * React         * Node         * NestJS         
 
 ```
-
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png' height='40' width='40' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
-   <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" alt="node" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="ts" width="40" height="40"/>
-  <img src="https://pbs.twimg.com/profile_images/1351573137855373312/NusaOfNL_400x400.jpg" alt="aws" width="40" height="40"/>
+<p align="left">
+<img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="40" height="40"><img src="https://cdn.simpleicons.org/css" alt="CSS3" width="40" height="40"><img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40" height="40"><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40"><img src="https://cdn.simpleicons.org/graphql" alt="GraphQL" width="40" height="40"><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40"><img src="https://img.icons8.com/?size=100&id=VoXRGxL3ekkk&format=png&color=000000" alt="AWS" width="40" height="40"><img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40"><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" height="40"><img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="40" height="40">
 </p>
-
----
 
 ## Experience
 
-### **Senior Software Engineer**
+### **Lead Software Engineer**
 ### EPAM, India
 
 **Cepheid - Ecommerce** - _Key backend Developer_
